@@ -1885,3 +1885,36 @@ singularads, 548745, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 
 facebook.com, 1619534528862913, DIRECT, c3e20eee3f780d68
+
+contextweb.com,563521, RESELLER, 89ff185a4c4e857c
+flat-ads.com, 68, DIRECT
+pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
+zmaticoo.com, 114386, DIRECT
+sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
+contextweb.com, 563321, RESELLER, 89ff185a4c4e857c
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+onlinemediasolutions.com, 20606, RESELLER
+pubmatic.com, 163507, RESELLER, 5d62403b186f2ace
+thebrave.io, 1234696, RESELLER, c25b2154543746ac
+sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
+freewheel.tv, 1601349, RESELLER
+freewheel.tv, 1601388, RESELLER
+onetag.com, 82bad7d17eccf7c, RESELLER
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+smartadserver.com, 4343, RESELLER
+smartadserver.com, 4865, RESELLER
+xapads.com, 209588, DIRECT
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+app-stock.com, 558223, RESELLER, ed8c126ea5971415
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
+sharethrough.com, tZy9X0vy, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
+singularads, 445896, DIRECT
+singularads, 445896, RESELLER
+appnexus.com, 16227, RESELLER, f5ab79cb980f11d1
+sharethrough.com, UPD4WJlm, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
+sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
+adform.com, 3014, RESELLER, 9f5210a2f0999e32
