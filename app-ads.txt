@@ -1947,3 +1947,7 @@ pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 motorik.io, 100463, RESELLER
+
+sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUXPR2GT, RESELLER
+conversantmedia.com, 100867, RESELLER, 03113cd04947736d
