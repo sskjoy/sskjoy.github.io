@@ -1951,3 +1951,5 @@ motorik.io, 100463, RESELLER
 sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
 media.net, 8CUXPR2GT, RESELLER
 conversantmedia.com, 100867, RESELLER, 03113cd04947736d
+
+google.com, pub-5847391892740730, DIRECT, f08c47fec0942fa0
