@@ -2037,4 +2037,8 @@ pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
-g-global.net, 21089, DIRECT
+g-global.net, 21089, DIRECT
+
+supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+yieldmo.com, 3078438591206989879, RESELLER
