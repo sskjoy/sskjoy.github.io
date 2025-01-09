@@ -2117,3 +2117,29 @@ g-global.net, 21153, DIRECT
 pubeasy.io, 110013, RESELLER
 
 openx.com, 561365249, RESELLER, 6a698e2ec38604c6
+
+brightmountainmedia.com, 2686894, RESELLER
+sharethrough.com, 1leEveR6, RESELLER
+video.unrulymedia.com, 667989109, RESELLER
+contextweb.com, 563625, RESELLER, 89ff185a4c4e857c
+media.net, 8CU9U47UY, RESELLER
+thebrave.io, 1234764, DIRECT, c25b2154543746ac
+appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 3881266972, RESELLER
+contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
+sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
+smartadserver.com, 4343, RESELLER
+Media.net, 8CU9B72O6, RESELLER
+sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
+freewheel.tv, 1601388, RESELLER
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+conversantmedia.com, 100396, RESELLER, 03113cd04947736d
+loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
+inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
+improvedigital.com, 1408, RESELLER
+e-planning.net, af5a107262468954, RESELLER,c1ba615865ed87b2
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+lijit.com, 273050, RESELLER, fafdf38b16bf6b2b
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
