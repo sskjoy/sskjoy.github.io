@@ -2223,3 +2223,5 @@ appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 g-global.net, 21153, DIRECT
 
 video.unrulymedia.com, 463431857, DIRECT
+
+mman.kr, 33085, RESELLER
