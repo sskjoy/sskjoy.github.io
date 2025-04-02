@@ -4,16 +4,12 @@ inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7,RESELLER,83e75a7ae333ca9d
 
 google.com, pub-5847391892740730, DIRECT, f08c47fec0942fa0
 
-
-toponad.com,1661ce47f81b4b,DIRECT,1d49fe424a1a456d
-adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176risecodes.com, 66b89f832f275900013903e2, RESELLER
+adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
+risecodes.com, 66b89f832f275900013903e2, RESELLER
 appnexus.com, 6849, RESELLER
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7,RESELLER,83e75a7ae333ca9d
 
-google.com, pub-5847391892740730, DIRECT, f08c47fec0942fa0
 
-
-toponad.com,1661ce47f81b4b,DIRECT,1d49fe424a1a456d
 adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
 adelement.com,30273,RESELLER
 admanmedia.com,1009,RESELLER
@@ -222,7 +218,6 @@ loopme.com,11633,RESELLER,6c8d5f95897a5a3b
 loopme.com,11635,RESELLER,6c8d5f95897a5a3b
 yeahmobi.com,1661ce47f81b4b,DIRECT
 zmaticoo.com,1661ce47f81b4b,DIRECT
-mintegral.com,22942,DIRECT,0aeed750c80d6423
 pokkt.com,7139,RESELLER,c45702d9311e25fd
 appads.in,107139,RESELLER
 pubmatic.com,160456,RESELLER,5d62403b186f2ace
@@ -553,7 +548,6 @@ inmobi.com,7f272e3b20a34cd7a1c344a12519b253,RESELLER,83e75a7ae333ca9d
 inmobi.com,c5ec89f5a7fc4af0b463423d3602d2c3,RESELLER,83e75a7ae333ca9d
 
 
-
 xandr.com, 7353, RESELLER
 xandr.com, 15840, RESELLER
 xandr.com, 15769, RESELLER
@@ -671,14 +665,11 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
-unity.com, 5401638, DIRECT, 96cabb5fbdde37a7
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 google.com, pub-5847391892740730, DIRECT, f08c47fec0942fa0
 
-
-toponad.com,1661ce47f81b4b,DIRECT,1d49fe424a1a456d
 adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
 adelement.com,30273,RESELLER
 admanmedia.com,1009,RESELLER
@@ -887,7 +878,6 @@ loopme.com,11633,RESELLER,6c8d5f95897a5a3b
 loopme.com,11635,RESELLER,6c8d5f95897a5a3b
 yeahmobi.com,1661ce47f81b4b,DIRECT
 zmaticoo.com,1661ce47f81b4b,DIRECT
-mintegral.com,22942,DIRECT,0aeed750c80d6423
 pokkt.com,7139,RESELLER,c45702d9311e25fd
 appads.in,107139,RESELLER
 pubmatic.com,160456,RESELLER,5d62403b186f2ace
@@ -1336,7 +1326,6 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
-unity.com, 5401638, DIRECT, 96cabb5fbdde37a7
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
@@ -1459,7 +1448,6 @@ themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 2464975885, RESELLER
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
-bigo.sg, 1114952, DIRECT
 
 connekt.ai, 1732945743, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
@@ -1470,7 +1458,6 @@ yeahmobi.com, 5135195, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
 
-applovin.com, d8ae003448ade4f4fcf094edfb52648e, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
@@ -1506,8 +1493,6 @@ zmaticoo.com, 5135655, RESELLER
 
 liftoff.io, 7f6945815e6, RESELLER 
 
-mintegral.com, 35232, DIRECT, 0aeed750c80d6423
-toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
@@ -2458,7 +2443,6 @@ loopme.com,11633,RESELLER,6c8d5f95897a5a3b
 loopme.com,11635,RESELLER,6c8d5f95897a5a3b
 yeahmobi.com,1661ce47f81b4b,DIRECT
 zmaticoo.com,1661ce47f81b4b,DIRECT
-mintegral.com,22942,DIRECT,0aeed750c80d6423
 pokkt.com,7139,RESELLER,c45702d9311e25fd
 appads.in,107139,RESELLER
 pubmatic.com,160456,RESELLER,5d62403b186f2ace
@@ -2907,14 +2891,11 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
-unity.com, 5401638, DIRECT, 96cabb5fbdde37a7
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 google.com, pub-5847391892740730, DIRECT, f08c47fec0942fa0
 
-
-toponad.com,1661ce47f81b4b,DIRECT,1d49fe424a1a456d
 adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
 adelement.com,30273,RESELLER
 admanmedia.com,1009,RESELLER
@@ -3123,7 +3104,6 @@ loopme.com,11633,RESELLER,6c8d5f95897a5a3b
 loopme.com,11635,RESELLER,6c8d5f95897a5a3b
 yeahmobi.com,1661ce47f81b4b,DIRECT
 zmaticoo.com,1661ce47f81b4b,DIRECT
-mintegral.com,22942,DIRECT,0aeed750c80d6423
 pokkt.com,7139,RESELLER,c45702d9311e25fd
 appads.in,107139,RESELLER
 pubmatic.com,160456,RESELLER,5d62403b186f2ace
@@ -3572,7 +3552,6 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 openx.com, 540861995, RESELLER, 6a698e2ec38604c6
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
-unity.com, 5401638, DIRECT, 96cabb5fbdde37a7
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
@@ -3695,7 +3674,6 @@ themediagrid.com, 6XGFYQ, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 2464975885, RESELLER
 pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
-bigo.sg, 1114952, DIRECT
 
 connekt.ai, 1732945743, RESELLER
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
@@ -3706,7 +3684,6 @@ yeahmobi.com, 5135195, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
 
-applovin.com, d8ae003448ade4f4fcf094edfb52648e, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
@@ -3742,8 +3719,6 @@ zmaticoo.com, 5135655, RESELLER
 
 liftoff.io, 7f6945815e6, RESELLER 
 
-mintegral.com, 35232, DIRECT, 0aeed750c80d6423
-toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
@@ -4472,3 +4447,21 @@ mman.kr, 33085, RESELLER
 
 appsheep.com, b4070e679b974be9bf2150cde7d28b73, RESELLER
 improvedigital.com, 2534, RESELLER
+
+video.unrulymedia.com, 201313863, RESELLER
+admanmedia.com, 2269, RESELLER
+pubmatic.com, 165117, RESELLER, 5d62403b186f2ace
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
+adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER
+loopme.com, 11386, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com, 162974, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 25386, RESELLER, 0bfd66d529a55807
+appnexus.com, 12700, RESELLER, f5ab79cb980f11d1
+themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+media.net, 8CUSC3UJ7, RESELLER
+trustedstack.com, TS5UCV3O4, RESELLER
+improvedigital.com, 2316, RESELLER
+opera.com, pub5959307917824, RESELLER, 55a0c5fd61378de3
